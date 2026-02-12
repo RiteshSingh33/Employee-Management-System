@@ -10,7 +10,6 @@ A web-based **Employee Management System** designed to streamline the process of
 * **Update Details:** Edit existing employee information to keep records up-to-date.
 * **Delete Records:** Remove employee data when no longer needed.
 * **Responsive Design:** User-friendly interface adaptable to various screen sizes.
-* **Search Functionality:** (Optional: Add if your app has this) Quickly find employees by name or ID.
 
 ## 🛠️ Tech Stack
 
